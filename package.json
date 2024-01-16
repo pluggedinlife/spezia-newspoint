@@ -1,0 +1,9 @@
+{
+  "name": "spezia-newspoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://pluggedinlife@github.com/pluggedinlife/spezia-newspoint.git",
+  "author": "Mikhail Nazaretyan @pluggedinlife <sgas5570@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
